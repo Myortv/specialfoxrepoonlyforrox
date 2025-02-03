@@ -11,6 +11,12 @@ hello_list = [
     "Hello, fox",
     "Not hello, go back to work, bitch",
     "Hello, from Jeff hater",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
 ]
 
 
@@ -18,7 +24,7 @@ def jeff(
     choices: Optional[List[str]] = hello_list
 ) -> None:
     # jeff is hard working guy
-    # i really love him
+    # i really hate him
     print(choice(choices))
 
 
