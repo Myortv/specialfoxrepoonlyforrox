@@ -11,6 +11,12 @@ hello_list = [
     "Hello, fox",
     "Not hello, go back to work, bitch",
     "Hello, from Jeff hater",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
+    "HATE JEFF",
 ]
 
 
