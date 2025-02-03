@@ -10,7 +10,6 @@ hello_list = [
     "Hello world",
     "Hello, fox",
     "Not hello, go back to work, bitch",
-    "Hello, from Jeff hater",
 ]
 
 
