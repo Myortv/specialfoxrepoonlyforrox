@@ -6,18 +6,19 @@ from random import choice
 hello_list = [
     "Hello world",
     "Hello, fox",
-    "Not hello, go back to work, bitch"
+    "Not hello, go back to work, bitch",
+    "Hello, from Jeff hater",
 ]
 
 
-def random_printer(
+def print_randon_from_list(
     choices: Optional[List[str]] = hello_list
 ) -> None:
     print(choice(choices))
 
 
 def main() -> None:
-    random_printer()
+    print_random_from_list()
 
 
 if __name__ == "__main__":
