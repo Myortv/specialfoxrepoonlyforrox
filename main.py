@@ -1,8 +1,5 @@
 from typing import Optional, List
 
-
-# random comment
-
 from random import choice
 
 
@@ -20,16 +17,8 @@ def random_printer(
 
 
 def main() -> None:
-    # print("Hello World")
     random_printer()
-
-
 
 
 if __name__ == "__main__":
     main()
-
-
-
-    
-
